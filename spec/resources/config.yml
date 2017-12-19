@@ -1,0 +1,7 @@
+---
+logger:
+  default: default
+  providers:
+    -
+      name: default
+      type: '~/lib/provider/default'
