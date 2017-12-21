@@ -32,6 +32,6 @@
   },
   "dependencies": {
     "@rduk/configuration": "2.0.1",
-    "@rduk/provider": "2.0.0"
+    "@rduk/provider": "2.0.1"
   }
 }
