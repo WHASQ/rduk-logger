@@ -1,5 +1,7 @@
 # RDUK - Logger
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rd-uk/rduk-logger.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/rd-uk/rduk-logger.svg?branch=master)](https://travis-ci.org/rd-uk/rduk-logger)
 [![Coverage Status](https://coveralls.io/repos/github/rd-uk/rduk-logger/badge.svg?branch=master)](https://coveralls.io/github/rd-uk/rduk-logger?branch=master)
 [![bitHound Overall Score](https://www.bithound.io/github/rd-uk/rduk-logger/badges/score.svg)](https://www.bithound.io/github/rd-uk/rduk-logger)
