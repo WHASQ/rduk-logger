@@ -1,6 +1,6 @@
 {
   "name": "@rduk/logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logger Provider",
   "engines": {
     "node": ">=6.4.0"
