@@ -33,10 +33,10 @@
     "@rduk/configuration": "2.x",
     "@rduk/errors": "1.x",
     "@rduk/provider": "3.x",
-    "coveralls": "3.0.0",
+    "coveralls": "3.0.1",
     "istanbul": "0.4.5",
-    "jasmine": "2.9.0",
-    "standard": "10.0.3"
+    "jasmine": "3.1.0",
+    "standard": "11.0.1"
   },
   "peerDependencies": {
     "@rduk/configuration": "2.x",
